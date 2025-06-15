@@ -10,7 +10,7 @@ This repository contains a complete pipeline for **bird species identification**
 - [🔊 Audio Preprocessing](#-audio-preprocessing)
 - [🎨 Spectrogram Augmentation](#-spectrogram-augmentation)
 - [🧮 Model Architecture](#-model-architecture)
-- [⚙️ Loss and Optimization](#-loss-and-optimization)
+- [⚙️ Loss and Optimization](#-⚙️-Loss-and-Optimization)
 - [🧪 Postprocessing](#-postprocessing)
 - [📁 Files](#-files)
 
